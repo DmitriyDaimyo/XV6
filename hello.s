@@ -1,4 +1,4 @@
-
+; "hello_world" with X86 assembly
 global _start
 
 
