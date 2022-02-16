@@ -1,4 +1,4 @@
-/sieve of eratosthenes with threads
+//sieve of eratosthenes with threads
 
 #include <user/user.h>
 
