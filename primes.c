@@ -1,3 +1,5 @@
+/sieve of eratosthenes with threads
+
 #include <user/user.h>
 
 
