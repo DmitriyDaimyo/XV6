@@ -1,5 +1,5 @@
 
-#a system call that reports which pages have been accessed
+//a system call that reports which pages have been accessed
 
 
 int
