@@ -1,4 +1,4 @@
-#system call tracing
+//system call tracing
 
 void
 syscall(void)
